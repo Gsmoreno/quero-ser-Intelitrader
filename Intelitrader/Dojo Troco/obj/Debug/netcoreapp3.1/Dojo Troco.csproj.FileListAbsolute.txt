@@ -1,0 +1,13 @@
+C:\Users\gugus\Desktop\Intelitrader\Dojo Troco\bin\Debug\netcoreapp3.1\Dojo Troco.exe
+C:\Users\gugus\Desktop\Intelitrader\Dojo Troco\bin\Debug\netcoreapp3.1\Dojo Troco.deps.json
+C:\Users\gugus\Desktop\Intelitrader\Dojo Troco\bin\Debug\netcoreapp3.1\Dojo Troco.runtimeconfig.json
+C:\Users\gugus\Desktop\Intelitrader\Dojo Troco\bin\Debug\netcoreapp3.1\Dojo Troco.runtimeconfig.dev.json
+C:\Users\gugus\Desktop\Intelitrader\Dojo Troco\bin\Debug\netcoreapp3.1\Dojo Troco.dll
+C:\Users\gugus\Desktop\Intelitrader\Dojo Troco\bin\Debug\netcoreapp3.1\Dojo Troco.pdb
+C:\Users\gugus\Desktop\Intelitrader\Dojo Troco\obj\Debug\netcoreapp3.1\Dojo Troco.csprojAssemblyReference.cache
+C:\Users\gugus\Desktop\Intelitrader\Dojo Troco\obj\Debug\netcoreapp3.1\Dojo Troco.csproj.CoreCompileInputs.cache
+C:\Users\gugus\Desktop\Intelitrader\Dojo Troco\obj\Debug\netcoreapp3.1\Dojo Troco.AssemblyInfoInputs.cache
+C:\Users\gugus\Desktop\Intelitrader\Dojo Troco\obj\Debug\netcoreapp3.1\Dojo Troco.AssemblyInfo.cs
+C:\Users\gugus\Desktop\Intelitrader\Dojo Troco\obj\Debug\netcoreapp3.1\Dojo Troco.dll
+C:\Users\gugus\Desktop\Intelitrader\Dojo Troco\obj\Debug\netcoreapp3.1\Dojo Troco.pdb
+C:\Users\gugus\Desktop\Intelitrader\Dojo Troco\obj\Debug\netcoreapp3.1\Dojo Troco.genruntimeconfig.cache

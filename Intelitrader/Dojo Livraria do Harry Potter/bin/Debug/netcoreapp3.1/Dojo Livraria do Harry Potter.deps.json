@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Dojo Livraria do Harry Potter/1.0.0": {
+        "runtime": {
+          "Dojo Livraria do Harry Potter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dojo Livraria do Harry Potter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
